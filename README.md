@@ -1,2 +1,17 @@
-# python-quiz-app
-An advanced Python quiz app built with Tkinter featuring a modern GUI, OOP concepts, and interactive MCQ gameplay.
+# 🐍 Python Quiz App
+A GUI-based quiz application built with Python Tkinter.
+## Features
+- Blue & white modern GUI
+- Multiple choice questions
+- Random question order
+- Score calculation
+- OOP based structure
+## Technologies
+- Python
+- Tkinter
+- Object Oriented Programming
+## Future Improvements
+- Timer system
+- Question database
+- High score saving
+- More categories
